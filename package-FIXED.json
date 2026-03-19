@@ -1,0 +1,20 @@
+{
+  "name": "nivarya-setu",
+  "version": "2.0.0",
+  "description": "Nivarya Setu - A bridge to smart investing",
+  "main": "api/index.py",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "start": "python -m flask run",
+    "dev": "python -m flask run --debug"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "24.x",
+    "python": "3.11.x"
+  },
+  "author": "Nivarya Setu",
+  "license": "ISC"
+}
